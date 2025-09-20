@@ -1,4 +1,5 @@
 #EXTM3U url-tvg="https://lichphatsong.site/schedule/epg.xml"
+#-------------------Bóng đá-------------------#
 #EXTINF:0 tvg-id="bdhd1" group-title="Bóng đá" tvg-logo="https://i.imgur.com/nfkmvAY.png",Bóng đá 
 https://cr7.rbncdn.net/live/689c9b0abe538a3f55a735b1_23xmvkh6ok41qg8_football_fhd/playlist.m3u8
 #EXTINF:-1 tvg-id="sctv4k" group-title="SCTV" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/logo-sctv4k_e0a24400.jpg", SCTV4K 
@@ -742,6 +743,7 @@ udp://@225.1.1.73:30120
 udp://@225.1.1.77:30120
 #EXTINF:0 tvg-id="" group-title="K+" tvg-logo="https://i.imgur.com/erWqYxh.png",K+ Kids (DRM)
 udp://@225.1.1.76:30120
+
 
 
 
